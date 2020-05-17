@@ -1,0 +1,2 @@
+# IoT_Central_Virtual_Device
+微軟範例的虛擬機器程式碼
