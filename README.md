@@ -12,7 +12,7 @@ npm install azure-iot-device azure-iot-device-mqtt azure-iot-provisioning-device
 ```
 
 下載完之後，修改部分參數連線至IoT Central即可使用
-詳細操作請閱讀官方文件:
+詳細操作請閱讀官方文件:<br>
 https://docs.microsoft.com/zh-tw/azure/iot-central/core/tutorial-connect-device-nodejs
 
 
